@@ -1,0 +1,15 @@
+# Human Detection Dataset Configuration for YOLOv8
+
+# Dataset root directory
+path: c:/Users/ABINAYA/OneDrive/Desktop/cv
+
+# Train and validation image directories (relative to 'path')
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  0: person

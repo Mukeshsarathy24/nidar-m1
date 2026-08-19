@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Dataset (Raw Images ~5.45GB)
+images/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS specific
+Thumbs.db
+.DS_Store
